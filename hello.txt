@@ -6,3 +6,4 @@ Good day.
 Good evening.
 Good night.
 How do you do?
+Howdie!
