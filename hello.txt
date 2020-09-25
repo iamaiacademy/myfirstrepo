@@ -10,4 +10,5 @@ Howdie!
 Hi Hi Hi
 hello hello
 ahoy there.
+hi
 good morning again.
